@@ -1,4 +1,4 @@
-## Hi there, I'm Jacob Erasmus👋
+## Hi there👋
 
 I am a Computer Science Honours student at the University of Pretoria, with a dual background in Computer Science and Psychology from the University of Cape Town.
 
