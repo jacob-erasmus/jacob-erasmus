@@ -2,17 +2,17 @@
 
 I am a Computer Science Honours student at the University of Pretoria, with a dual background in Computer Science and Psychology from the University of Cape Town.
 
-###Current Focus:
+### Current Focus:
 
-- Academic Research: Machine Learning-Based Analysis of high-volume 5G network logs.
+- **Academic Research:** Machine Learning-Based Analysis of high-volume 5G network logs.
 
-###Certifications & Professional Development
+### Certifications & Professional Development
 
-- Microsoft Applied Skills: Secure Azure Services and Workloads with Microsoft Defender for Cloud regulatory compliance controls
+- **Microsoft Applied Skills:** Secure Azure Services and Workloads with Microsoft Defender for Cloud regulatory compliance controls
 
-- TryHackMe: Practical SIEM & Log Analysis, Splunk: Exploring SPL and more.
+- **TryHackMe:** Practical SIEM & Log Analysis, Splunk: Exploring SPL and more.
   
-- Currently pursuing: ISC2 Certified in Cybersecurity (CC)
+- **Currently pursuing:** ISC2 Certified in Cybersecurity (CC)
 
 ### Tech Stack & Tools
 
