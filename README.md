@@ -2,11 +2,11 @@
 
 I am a Computer Science Honours student at the University of Pretoria, with a dual background in Computer Science and Psychology from the University of Cape Town.
 
-Current Focus:
+###Current Focus:
 
 - Academic Research: Machine Learning-Based Analysis of high-volume 5G network logs.
 
-Certifications & Professional Development
+###Certifications & Professional Development
 
 - Microsoft Applied Skills: Secure Azure Services and Workloads with Microsoft Defender for Cloud regulatory compliance controls
 
@@ -14,13 +14,6 @@ Certifications & Professional Development
   
 - Currently pursuing: ISC2 Certified in Cybersecurity (CC)
 
-Tech Stack & Tools
-
-- Languages: Python, Bash, SQL, Java
-
-- Cloud & Security: Microsoft Azure, Microsoft Defender, Splunk
-
-- Systems & Tools: Linux (Ubuntu/WSL), Git, Kali Linux
 ### Tech Stack & Tools
 
 **Languages:**
