@@ -21,8 +21,6 @@ Data Science & ML: Pandas, NumPy, Scikit-Learn, Regex
 Cloud & Security: Microsoft Azure, Microsoft Defender, Splunk, Microsoft Sentinel
 
 Systems & Tools: Linux (Ubuntu/WSL), Git, Kali Linux
-
-- Let's Connect: www.linkedin.com/in/jacob-erasmus
 <!--
 **jacob-erasmus/jacob-erasmus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
