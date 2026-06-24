@@ -10,15 +10,13 @@ Certifications & Professional Development
 
 - Microsoft Applied Skills: Secure Azure Services and Workloads with Microsoft Defender for Cloud regulatory compliance controls
 
-- TryHackMe: Practical SIEM & Log Analysis, Threat Hunting with Splunk (SPL) and Microsoft Sentinel (KQL), and Blue Team SOC Operations
+- TryHackMe: Practical SIEM & Log Analysis, Splunk: Exploring SPL and more.
 
 Tech Stack & Tools
 
 - Languages: Python, Bash, SQL, Java
 
-- Data Science & ML: Pandas, NumPy, Scikit-Learn, Regex
-
-- Cloud & Security: Microsoft Azure, Microsoft Defender, Splunk, Microsoft Sentinel
+- Cloud & Security: Microsoft Azure, Microsoft Defender, Splunk
 
 - Systems & Tools: Linux (Ubuntu/WSL), Git, Kali Linux
 <!--
