@@ -29,7 +29,7 @@ I am a Computer Science Honours student at the University of Pretoria, with a du
 ![SHAP](https://img.shields.io/badge/SHAP-Explainable_AI-20232A?style=for-the-badge)
 ![SMOTE](https://img.shields.io/badge/SMOTE-Data_Balancing-8A2BE2?style=for-the-badge)
 
-**Cloud & Enterprise Defense:**
+**Cloud, Networking & Defense::**
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
